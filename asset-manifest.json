@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/afrilearn/static/css/main.32e3d856.chunk.css",
+    "main.js": "/afrilearn/static/js/main.bf08cde5.chunk.js",
+    "main.js.map": "/afrilearn/static/js/main.bf08cde5.chunk.js.map",
+    "runtime-main.js": "/afrilearn/static/js/runtime-main.84ac36d4.js",
+    "runtime-main.js.map": "/afrilearn/static/js/runtime-main.84ac36d4.js.map",
+    "static/js/2.e82ba67e.chunk.js": "/afrilearn/static/js/2.e82ba67e.chunk.js",
+    "static/js/2.e82ba67e.chunk.js.map": "/afrilearn/static/js/2.e82ba67e.chunk.js.map",
+    "index.html": "/afrilearn/index.html",
+    "precache-manifest.d472a16cccee0c65388d8803aa31b067.js": "/afrilearn/precache-manifest.d472a16cccee0c65388d8803aa31b067.js",
+    "service-worker.js": "/afrilearn/service-worker.js",
+    "static/css/main.32e3d856.chunk.css.map": "/afrilearn/static/css/main.32e3d856.chunk.css.map",
+    "static/js/2.e82ba67e.chunk.js.LICENSE.txt": "/afrilearn/static/js/2.e82ba67e.chunk.js.LICENSE.txt",
+    "static/media/afrilearn_logo.png": "/afrilearn/static/media/afrilearn_logo.5c2db8b1.png",
+    "static/media/Banner.css": "/afrilearn/static/media/banner.71468626.jpg",
+    "static/media/jamb.png": "/afrilearn/static/media/jamb.f7d8bfcc.png",
+    "static/media/necco.png": "/afrilearn/static/media/necco.7156e57a.png",
+    "static/media/professional.webp": "/afrilearn/static/media/professional.1e5ea518.webp",
+    "static/media/waec.png": "/afrilearn/static/media/waec.1f3aff80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84ac36d4.js",
+    "static/js/2.e82ba67e.chunk.js",
+    "static/css/main.32e3d856.chunk.css",
+    "static/js/main.bf08cde5.chunk.js"
+  ]
+}
