@@ -1,0 +1,30 @@
+.footer {
+    background-color: #262526;
+    padding: 7rem 0 7rem 0;
+}
+
+.footer-header {
+    color: #ffffff;
+    border-bottom: .1px solid grey;
+    padding-bottom: 4rem;
+}
+
+.footer-header-text {
+    font-size: 3.5rem;
+}
+
+.footer-header-sub-text {
+    font-size: 1.7rem;
+}
+
+.footer-socials {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.footer-icon {
+    font-size: 3rem;
+    margin-right: 1.4rem;
+    color: #ffffff;
+}
